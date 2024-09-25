@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/12san/OneDrive/Documents/GitHub/Coding-Decoding/ASSIGNMENT/Assignment",
-      "program": "c:/Users/12san/OneDrive/Documents/GitHub/Coding-Decoding/ASSIGNMENT/Assignment/build/Debug/outDebug",
+      "cwd": "c:/Users/12san/OneDrive/Documents/GitHub/Coding-Decoding/ASSIGNMENT/Assignment/Day 5",
+      "program": "c:/Users/12san/OneDrive/Documents/GitHub/Coding-Decoding/ASSIGNMENT/Assignment/Day 5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
